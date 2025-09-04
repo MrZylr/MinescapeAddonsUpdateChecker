@@ -6,11 +6,9 @@
     {
       "id": "0.0.1",
       "releasedAt": 1750910400000,
-      "promotions": {
-          "downloads": {
-              "curseforge": "https://www.curseforge.com/minecraft/modpacks/minescapeaddons/download/6815881",
-          }
-      }
+	  "downloads": {
+		  "curseforge": "https://www.curseforge.com/minecraft/modpacks/minescapeaddons/download/6815881",
+		  }
     },
     {
       "id": "0.0.2",

@@ -1,0 +1,13 @@
+- Added settings screen
+- Added Armor Overrides
+- Added equipment stats screen
+- Added size scaling
+- Added compact inventory mode
+- Added hp/prayer bars
+- Added mob highlights
+- Added slot highlights when clicked on item
+- Added browser
+- Added color picker for hud elements
+- Added low health vignette
+- Fixed more right click issues
+- Fixed right click menus not aligning correctly on the edge of screen

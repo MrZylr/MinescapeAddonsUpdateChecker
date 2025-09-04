@@ -6,21 +6,22 @@
     {
       "id": "0.0.1",
       "releasedAt": 1750910400000,
-	  "downloads": {
-		  "curseforge": "https://www.curseforge.com/minecraft/modpacks/minescapeaddons/download/6815881",
-	  }
     },
     {
       "id": "0.0.2",
-      "releasedAt": 1697681985000
+      "releasedAt": 1751083200000
     },
     {
       "id": "0.0.3",
-      "releasedAt": 987654321098765
+      "releasedAt": 1751083200000
     },
     {
       "id": "0.0.4",
-      "releasedAt": 987654321098765
+      "releasedAt": 1751169600000
+    },
+    {
+      "id": "0.0.5",
+      "releasedAt": 1751169600000
     }
   ]
 }

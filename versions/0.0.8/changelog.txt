@@ -1,0 +1,8 @@
+- Added toggle for virtual levels
+- Added custom cape models with physics
+- Fixed timers not pausing on logout
+- Fixed ranged logo not loading
+- Fixed hp bars rendering incorrectly if using virtual levels
+- Fixed boosted levels using virtual levels
+- Fixed food/prayer tooltips not rendering when in bank
+- Fixed browser playing video on homescreen

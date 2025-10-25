@@ -1,0 +1,8 @@
+- Added more right click menu options
+- Added Refresh, minimize, and close buttons to browser
+- Fix Browser not opening google on initilization 
+- Fix "Remove Branding" removing progress bar
+- Fix Guthans armor not rendering under 50%
+- Fix Bank and other screens not closing when pressing inventory buttons
+- Fix Checking amulet of bounty
+- Fix Not being able to open item packs

@@ -1,0 +1,13 @@
+- Add item amount numbers inside interfaces
+- Add farming timers
+- Add target system
+- Add barrows helper
+- Add Custom chat
+- Add Minimap
+- Add variety of armor models and colors
+- Fix skillcapes not appearing on npc's
+- Fix orbs rendering wavey when over level 99 and virtual levels off
+- Fix xp showing incorrectly
+- Update mod settings menu visuals
+- Update xp tracker visuals
+

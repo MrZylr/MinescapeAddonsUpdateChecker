@@ -1,0 +1,2 @@
+- fix invisible vanilla chat in inventory
+- fix skill hover menus rendering off screen

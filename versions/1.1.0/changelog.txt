@@ -1,0 +1,6 @@
+- Add Large and Small Versions of Fixed Screen Mode
+- Add Prayer Button Functionality
+- Add Automatic Session Timer Pause on AFK
+- Fix World Number Not Showing on Scoreboard
+- Fix Opening Attack Select Style When Typeing F
+- Fix Target Widget and Barrows Widget Not Moving on HudEdit Screen
